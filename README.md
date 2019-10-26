@@ -1,4 +1,4 @@
-# this program has defferent functionality
+# this program has defferent functionalites
 # running the code
 # enter 1 to add an album
 # enter 2 to print all album details
