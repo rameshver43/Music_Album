@@ -1,5 +1,5 @@
 # This program has defferent functionalites
-# running the code
+# Running the code
 # enter 1 to add an album
 # enter 2 to print all album details
 # enter 3 to play an  track from album
